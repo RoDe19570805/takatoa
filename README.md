@@ -1,4 +1,4 @@
-![...](https://www.takatoa.net/takatoaLAB/shutterstock_1395363998_1920-240-plus.jpg)
+![...](takatoa_qai_head-img_1920-200.jpg)
 
 # Quantum Computing based Artificial Intelligence
 
