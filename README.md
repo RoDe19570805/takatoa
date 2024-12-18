@@ -2,4 +2,4 @@
 
 # Quantum Computing based Artificial Intelligence
 
-takatoa untersucht die Anwendung von Methoden der „Künstlichen Intelligenz“ im Bereich raum- und zeitabhängiger Fragestellungen unter Nutzung des Quantencomputings. 
+takatoa was founded in spring 2021 as a startup that focuses on the use of artificial intelligence, incorporating pioneering quantum technologies (Quantum Artificial Intelligence), to generate business-relevant insights from space-time-related data. 
